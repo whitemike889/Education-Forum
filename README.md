@@ -26,7 +26,6 @@ Join our mailing list to stay apprised of the latest contributed materials, ask 
 *   [Videos & Presentations](https://www.khronos.org/developers/library/)
 *   [Reference Guides](https://www.khronos.org/developers/reference-cards/)
 *   [Books](https://www.khronos.org/developers/books/)
-*   [Training Centers](https://www.khronos.org/developers/training/)
 *   by standard:  [glTF](https://www.khronos.org/gltf/resources), [OpenCL](https://www.khronos.org/opencl/resources), [OpenGL ES](https://www.khronos.org/opengles/resources), [OpenGL](https://www.khronos.org/opengl/resources/),  [OpenVX](https://www.khronos.org/openvx/resources),  [SPIR](https://www.khronos.org/spir/resources),  [SYCL](https://www.khronos.org/sycl/resources), [Vulkan](https://www.khronos.org/vulkan/resources/), [WebGL](https://www.khronos.org/webgl/resources/)
 
 ### Course Materials
